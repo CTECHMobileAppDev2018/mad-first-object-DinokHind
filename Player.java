@@ -7,7 +7,7 @@ public class Player {
   private int health;
   
   // this is called a "constructor". It is automatically called when someone creates a new Player object
-  public void Player() {
+  Player() {
     this.health = 100;
   }
   
