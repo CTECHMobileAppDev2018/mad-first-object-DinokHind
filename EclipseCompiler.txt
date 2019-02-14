@@ -1,0 +1,56 @@
+14 Feb 2019 14:39:28 GMT: Log 'EclipseCompiler.txt' opened: 14 Feb 2019 14:39:28 GMT with name \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\EclipseCompiler.txt
+14 Feb 2019 14:53:49 GMT: diagnostics = javax.tools.DiagnosticCollector@2853780e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@34e1c104
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\StartGame.java]
+14 Feb 2019 14:53:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6bf1f701' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+14 Feb 2019 14:53:50 GMT: Compiler call returned
+14 Feb 2019 14:53:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b680eab
+14 Feb 2019 14:53:50 GMT:  Kind = ERROR
+14 Feb 2019 14:53:50 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\Player.java LineNo = 43 ColNo = 3 Msg = 'Syntax error, insert "}" to complete ClassBody'
+14 Feb 2019 14:53:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@38bc3a96
+14 Feb 2019 14:53:50 GMT:  Kind = ERROR
+14 Feb 2019 14:53:50 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\StartGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+14 Feb 2019 14:53:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43da767c
+14 Feb 2019 14:53:50 GMT:  Kind = ERROR
+14 Feb 2019 14:53:50 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\Player.java LineNo = 42 ColNo = 17 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+14 Feb 2019 14:53:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@31609a18
+14 Feb 2019 14:53:50 GMT:  Kind = ERROR
+14 Feb 2019 14:53:50 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\Player.java LineNo = 36 ColNo = 7 Msg = 'Void methods cannot return a value'
+14 Feb 2019 14:55:11 GMT: diagnostics = javax.tools.DiagnosticCollector@2847bca0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@421cd231
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\StartGame.java, \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\Player.java]
+14 Feb 2019 14:55:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2bfbada' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+14 Feb 2019 14:55:11 GMT: Compiler call returned
+14 Feb 2019 14:55:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78ccd8ab
+14 Feb 2019 14:55:11 GMT:  Kind = ERROR
+14 Feb 2019 14:55:11 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\Player.java LineNo = 43 ColNo = 3 Msg = 'Syntax error, insert "}" to complete ClassBody'
+14 Feb 2019 14:55:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@6bb6a97a
+14 Feb 2019 14:55:11 GMT:  Kind = ERROR
+14 Feb 2019 14:55:11 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\StartGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+14 Feb 2019 14:55:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72ebe0c4
+14 Feb 2019 14:55:11 GMT:  Kind = ERROR
+14 Feb 2019 14:55:11 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\Player.java LineNo = 42 ColNo = 17 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+14 Feb 2019 14:55:18 GMT: diagnostics = javax.tools.DiagnosticCollector@25fad1cb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ba6a0a4
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\Player.java]
+14 Feb 2019 14:55:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@65d10a97' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+14 Feb 2019 14:55:18 GMT: Compiler call returned
+14 Feb 2019 14:55:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6362864d
+14 Feb 2019 14:55:18 GMT:  Kind = ERROR
+14 Feb 2019 14:55:18 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\Player.java LineNo = 43 ColNo = 3 Msg = 'Syntax error, insert "}" to complete ClassBody'
+14 Feb 2019 14:55:34 GMT: diagnostics = javax.tools.DiagnosticCollector@434855bc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14e2ae0d
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\StartGame.java, \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\Player.java]
+14 Feb 2019 14:55:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10c741a1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+14 Feb 2019 14:55:34 GMT: Compiler call returned
+14 Feb 2019 14:55:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@738b48b7
+14 Feb 2019 14:55:34 GMT:  Kind = ERROR
+14 Feb 2019 14:55:34 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\StartGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
+14 Feb 2019 14:56:36 GMT: diagnostics = javax.tools.DiagnosticCollector@776c1d38
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6ec7a7fb
+fileObjects = [\\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\StartGame.java]
+14 Feb 2019 14:56:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5218716c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind;C:\Users\7753101\Downloads\drjava-beta-20160913-225446.exe]
+14 Feb 2019 14:56:36 GMT: Compiler call returned
+14 Feb 2019 14:56:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$1@f9f1455
+14 Feb 2019 14:56:36 GMT:  Kind = ERROR
+14 Feb 2019 14:56:36 GMT: Name = \\student17\susers$\7\77\7753101\GitHub\mad-first-object-DinokHind\StartGame.java LineNo = 0 ColNo = 0 Msg = 'Internal compiler error: java.lang.IllegalArgumentException: URI has an authority component at java.io.File.<init>(Unknown Source)'
